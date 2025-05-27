@@ -17,42 +17,82 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a second-year Ph.D. student in the Department of Computer Science at North Carolina State University, advised by [Prof. Xipeng Shen](https://research.csc.ncsu.edu/picture/xshen5/index.htm). I also collaborate closely with Oak Ridge National Laboratory, under the supervision of [Dr. M.A.H. Monil](https://www.ornl.gov/staff-profile/m-h-monil) and [Dr. Seyong Lee](https://www.ornl.gov/staff-profile/seyong-lee). I received my Bachelor's degree in Computer Science and Engineering from Huazhong University of Science and Technology in 2023. During my undergraduate studies, I was an exchange student at the University of California, Santa Barbara (2022–2023), supervised by [Prof. Zheng Zhang](https://web.ece.ucsb.edu/~zhengzhang/).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+# 🎓 Research Interests
 
+- Programming Languages, Compiler and Program Optimization
+- Distributed Systems
+- Large Language Models
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+<div class ="news-container">
+  <ul>
+    <li> 🎉 2025.04: Our paper <a href="https://doi.org/10.1145/3729282">"Reductive Analysis with Compiler-Guided Large Language Models for Input-Centric Code Optimizations"</a> has been accepted by PLDI 2025! See you in Seoul in June!</li>
+    <li> 🎉 2025.01: I'm glad to share that I've passed the NCSU Ph.D. written exam and have become a Ph.D. candidate!</li> 
+  </ul>
+</div>
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PLDI 2025</div><img src='images/PLDI25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Reductive Analysis with Compiler-Guided Large Language Models for Input-Centric Code Optimizations](https://research.csc.ncsu.edu/picture/publications/papers/pldi2025)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Xiangwei Wang**, Xinning Hui, Chunhua Liao, Xipeng Shen
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+*ACM SIGPLAN Conference on Programming Language Design & Implementation (PLDI), 2025*
+
+<span style="font-size: 1.1em; color: red;"><strong>Accept Rate (28.4% &asymp; 90/316)</strong></span>
+ 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAD 2023</div><img src='images/TCAD23.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HardGBM: A Framework for Accurate and Hardware-Efficient Gradient Boosting Machines](https://ieeexplore.ieee.org/abstract/document/9933867/)
+
+Hongfei Wang, Zhanfei Wu, **Xiangwei Wang**, Longyun Bian, Hai Jin
+
+*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023*
+ 
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/preprint-ucsb.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Ultra Memory-Efficient On-FPGA Training of Transformers via Tensor-Compressed Optimization](https://arxiv.org/abs/2501.06663)
+
+Jiayi Tian, Jinming Lu, Hai Li, **Xiangwei Wang**, Cong (Callie)Hao, Ian Young, Zheng Zhang
+ 
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- University-Level Merit Student Award, 2020/2021/2022
+- Outstanding Undergraduate Graduates, 2023
+- Outstanding Undergraduate Thesis, 2023
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- <img src="images/ncsu.png" alt="NCSU Logo" width="18" height="18"> *2023.09 - now*, North Carolina State University (NCSU), Ph.D. student in Computer Science;
+- <img src="images/ucsb.gif" alt="UCSB Logo" width="18" height="20"> *2022.09 - 2023.06*, University of California, Santa Barbara (UCSB), Exchange student in Computer Science;
+- <img src="images/hust.png" alt="HUST Logo" width="18" height="20"> *2019.09 - 2023.06*, Huazhong University of Science and Technology (HUST), Bachelor of Engineering in Cyberspace Security <span style="color: red;"><strong>(Top 1%)</strong></span>
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<!-- # 💬 Invited Talks
+- *202.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.05 - 2024.08*, [Oak Ridge National Laboratory](https://www.ornl.gov/).
