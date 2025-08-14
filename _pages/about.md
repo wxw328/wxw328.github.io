@@ -69,12 +69,14 @@ Hongfei Wang, Zhanfei Wu, **Xiangwei Wang**, Longyun Bian, Hai Jin
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/preprint-ucsb.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAD 2025</div><img src='images/TCAD25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Ultra Memory-Efficient On-FPGA Training of Transformers via Tensor-Compressed Optimization](https://arxiv.org/abs/2501.06663)
+[Ultra Memory-Efficient On-FPGA Training of Transformers via Tensor-Compressed Optimization](https://ieeexplore-ieee-org.prox.lib.ncsu.edu/abstract/document/11121368)
 
 Jiayi Tian, Jinming Lu, Hai Li, **Xiangwei Wang**, Cong (Callie)Hao, Ian Young, Zheng Zhang
+
+*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025*
  
 </div>
 </div>
