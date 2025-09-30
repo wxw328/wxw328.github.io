@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year Ph.D. student in the Department of Computer Science at North Carolina State University, advised by [Prof. Xipeng Shen](https://research.csc.ncsu.edu/picture/xshen5/index.htm). I also collaborate closely with Oak Ridge National Laboratory, under the supervision of [Dr. M.A.H. Monil](https://www.ornl.gov/staff-profile/m-h-monil) and [Dr. Seyong Lee](https://www.ornl.gov/staff-profile/seyong-lee). I received my Bachelor's degree in Computer Science and Engineering from Huazhong University of Science and Technology in 2023. During my undergraduate studies, I was an exchange student at the University of California, Santa Barbara (2022–2023), supervised by [Prof. Zheng Zhang](https://web.ece.ucsb.edu/~zhengzhang/).
+I am currently a third-year Ph.D. student in the Department of Computer Science at North Carolina State University, advised by [Prof. Xipeng Shen](https://research.csc.ncsu.edu/picture/xshen5/index.htm). I also collaborate closely with Oak Ridge National Laboratory, under the supervision of [Dr. M.A.H. Monil](https://www.ornl.gov/staff-profile/m-h-monil) and [Dr. Seyong Lee](https://www.ornl.gov/staff-profile/seyong-lee). I received my Bachelor's degree in Computer Science and Engineering from Huazhong University of Science and Technology in 2023. During my undergraduate studies, I was an exchange student at the University of California, Santa Barbara (2022–2023), supervised by [Prof. Zheng Zhang](https://web.ece.ucsb.edu/~zhengzhang/).
 
 # 🎓 Research Interests
 
-- Programming Languages, Compiler and Program Optimization
-- Distributed Systems
-- Large Language Models
+- **LLMs for Compilers**:  Exploring how Large Language Models can be leveraged to tackle long-standing challenges in Programming Languages and Compiler Optimization. My focus is on using LLMs to improve **program analysis**, **code transformation**, and **automated optimization strategies**, bridging the gap between human intent and efficient executable code.
+
+- **Compiler for LLMs**:  Investigating LLM systems from a compiler’s perspective, with an emphasis on building efficient compilation and optimization pipelines for **multi-agent system**.
+
 
 # 🔥 News
 
