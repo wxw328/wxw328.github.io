@@ -30,6 +30,7 @@ I am currently a third-year Ph.D. student in the Department of Computer Science 
 
 <div class ="news-container">
   <ul>
+    <li> 🎉 2026.01: Our paper <a href="https://doi.ieeecomputersociety.org/10.1109/CGO68049.2026.11395201">"SparseX: Synergizing GPU Libraries for Sparse Matrix Multiplication on Heterogeneous Processors"</a> has been accepted by CGO 2026!</li>
     <li> 🎉 2025.04: Our paper <a href="https://doi.org/10.1145/3729282">"Reductive Analysis with Compiler-Guided Large Language Models for Input-Centric Code Optimizations"</a> has been accepted by PLDI 2025! See you in Seoul in June!</li>
     <li> 🎉 2025.01: I'm glad to share that I've passed the NCSU Ph.D. written exam and have become a Ph.D. candidate!</li> 
   </ul>
@@ -41,7 +42,7 @@ I am currently a third-year Ph.D. student in the Department of Computer Science 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PLDI 2025</div><img src='images/PLDI25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Reductive Analysis with Compiler-Guided Large Language Models for Input-Centric Code Optimizations](https://research.csc.ncsu.edu/picture/publications/papers/pldi2025)
+[Reductive Analysis with Compiler-Guided Large Language Models for Input-Centric Code Optimizations](https://doi.org/10.1145/3729282)
 
 **Xiangwei Wang**, Xinning Hui, Chunhua Liao, Xipeng Shen
 
@@ -53,6 +54,18 @@ I am currently a third-year Ph.D. student in the Department of Computer Science 
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CGO 2026</div><img src='images/cgo26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SparseX: Synergizing GPU Libraries for Sparse Matrix Multiplication on Heterogeneous Processors](https://doi.ieeecomputersociety.org/10.1109/CGO68049.2026.11395201)
+
+Ruifeng Zhang, **Xiangwei Wang**, Ang Li, Xipeng Shen
+
+*2026 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)*
+
+ 
+</div>
+</div>
 
 
 
@@ -99,3 +112,4 @@ Jiayi Tian, Jinming Lu, Hai Li, **Xiangwei Wang**, Cong (Callie)Hao, Ian Young, 
 
 # 💻 Internships
 - *2024.05 - 2024.08*, [Oak Ridge National Laboratory](https://www.ornl.gov/).
+- *2025.05 - 2025.08*, [Oak Ridge National Laboratory](https://www.ornl.gov/).
