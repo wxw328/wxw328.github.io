@@ -31,7 +31,7 @@ I am currently a third-year Ph.D. student in the School of Electrical and Comput
 <div class ="news-container">
   <ul>
     <li> 👨🏻‍💻 2026.04: I will join Qualcomm GPU teams as an intern this summer at Santa Clara, CA! I will work on compiler optimization framework. </li>
-    <li> 🎓 2026.03: I will transfer to Purdue University along with My advisor Prof.Shen!
+    <li> 🎓 2026.03: I will transfer to Purdue University along with My advisor Prof.Shen!</li>
     <li> 🎉 2026.01: Our paper <a href="https://doi.ieeecomputersociety.org/10.1109/CGO68049.2026.11395201">"SparseX: Synergizing GPU Libraries for Sparse Matrix Multiplication on Heterogeneous Processors"</a> has been accepted by CGO 2026!</li>
     <li> 🎉 2025.04: Our paper <a href="https://doi.org/10.1145/3729282">"Reductive Analysis with Compiler-Guided Large Language Models for Input-Centric Code Optimizations"</a> has been accepted by PLDI 2025! See you in Seoul in June!</li>
     <li> 🎉 2025.01: I'm glad to share that I've passed the Ph.D. written exam and have become a Ph.D. candidate!</li> 
