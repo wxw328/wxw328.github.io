@@ -105,6 +105,11 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+collections:
+  blog:
+    output: true
+    permalink: /blog/:name/
+
 
 # Markdown Processing
 kramdown:
@@ -126,6 +131,12 @@ defaults:
     values:
       layout: default
       author_profile: true
+  - scope:
+      path: ""
+      type: blog
+    values:
+      layout: blog
+      author_profile: false
 
 
 # Sass/SCSS

@@ -1,0 +1,54 @@
+---
+layout: compress
+---
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body class="layout--blog">
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    <div id="main" role="main">
+      <article class="page blog-page" itemscope itemtype="http://schema.org/CreativeWork">
+        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+        <div class="page__inner-wrap">
+          <header class="blog-page__header">
+            <!-- <p class="blog-page__kicker">
+              <a href="{{ '/blog/' | relative_url }}" target="_self">Technical Blog</a>
+              {% if page.url != '/blog/' %}
+                <span> / </span>
+                <a href="{{ '/' | relative_url }}#about-me" target="_self">Back to homepage</a>
+              {% endif %}
+            </p> -->
+            {% if page.title %}<h1 class="page__title">{{ page.title }}</h1>{% endif %}
+            {% if page.date %}
+              <p class="page__meta">
+                <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+                {% if page.tags and page.tags.size > 0 %}
+                  <span class="blog-page__meta-divider">.</span>
+                  {% for tag in page.tags %}
+                    <span class="blog-page__tag">{{ tag }}</span>
+                  {% endfor %}
+                {% endif %}
+              </p>
+            {% endif %}
+            {% if page.excerpt %}
+              <p class="blog-page__deck">{{ page.excerpt }}</p>
+            {% endif %}
+          </header>
+
+          <section class="page__content" itemprop="text">
+            {{ content }}
+          </section>
+        </div>
+      </article>
+    </div>
+
+    {% include scripts.html %}
+  </body>
+</html>
