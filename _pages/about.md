@@ -21,16 +21,16 @@ I am currently a third-year Ph.D. student in the School of Electrical and Comput
 
 # 🎓 Research Interests
 
-- **LLMs for Compilers**:  Exploring how Large Language Models can be leveraged to tackle long-standing challenges in Programming Languages and Compiler Optimization. My focus is on using LLMs to improve **program analysis**, **code transformation**, and **automated optimization strategies**, bridging the gap between human intent and efficient executable code.
+- **LLMs for Compilers**:  Exploring how Large Language Models can be leveraged to tackle long-standing challenges in Compiler Optimization. My focus is on using LLMs to improve **program analysis**, and **automated optimization strategies**, bridging the gap between human intent and efficient executable code.
 
-- **Compiler for LLMs**:  Investigating LLM systems from a compiler’s perspective, with an emphasis on building efficient compilation and optimization pipelines for **multi-agent system**.
+- **Compiler for LLMs**:  Investigating LLM systems from a compiler’s perspective, with an emphasis on building efficient compilation and optimization pipelines for **agentic system**.
 
 
 # 🔥 News
 
 <div class ="news-container">
   <ul>
-    <li> 👨🏻‍💻 2026.04: I will join Qualcomm GPU teams as an intern this summer at Santa Clara, CA! I will work on compiler optimization framework. </li>
+    <li> 👨🏻‍💻 2026.04: I will join Qualcomm GPU teams as an intern this summer at Santa Clara, CA! I will work on compiler optimization framework for Qualcomm GPUs. </li>
     <li> 🎓 2026.03: I will transfer to Purdue University along with My advisor Prof.Shen!</li>
     <li> 🎉 2026.01: Our paper <a href="https://doi.ieeecomputersociety.org/10.1109/CGO68049.2026.11395201">"SparseX: Synergizing GPU Libraries for Sparse Matrix Multiplication on Heterogeneous Processors"</a> has been accepted by CGO 2026!</li>
     <li> 🎉 2025.04: Our paper <a href="https://doi.org/10.1145/3729282">"Reductive Analysis with Compiler-Guided Large Language Models for Input-Centric Code Optimizations"</a> has been accepted by PLDI 2025! See you in Seoul in June!</li>
@@ -104,7 +104,7 @@ Jiayi Tian, Jinming Lu, Hai Li, **Xiangwei Wang**, Cong (Callie)Hao, Ian Young, 
 - Outstanding Undergraduate Thesis, 2023
 
 # 📖 Educations
-- <img src="images/ncsu.png" alt="NCSU Logo" width="18" height="18"> *2023.09 - now*, North Carolina State University (NCSU), Ph.D. student in Computer Science;
+- <img src="images/purdue.png" alt="Purdue Logo" width="18" height="18"> *2023.09 - now*, Purdue University, Ph.D. student in Electrical and Computer Engineering;
 - <img src="images/ucsb.gif" alt="UCSB Logo" width="18" height="20"> *2022.09 - 2023.06*, University of California, Santa Barbara (UCSB), Exchange student in Computer Science;
 - <img src="images/hust.png" alt="HUST Logo" width="18" height="20"> *2019.09 - 2023.06*, Huazhong University of Science and Technology (HUST), Bachelor of Engineering in Cyberspace Security <span style="color: red;"><strong>(Top 1%)</strong></span>
 
@@ -115,3 +115,4 @@ Jiayi Tian, Jinming Lu, Hai Li, **Xiangwei Wang**, Cong (Callie)Hao, Ian Young, 
 # 💻 Internships
 - *2024.05 - 2024.08*, [Oak Ridge National Laboratory](https://www.ornl.gov/).
 - *2025.05 - 2025.08*, [Oak Ridge National Laboratory](https://www.ornl.gov/).
+- *2026.05 - 2026.08*, [Qualcomm GPU Compiler Team](https://www.qualcomm.com/).
