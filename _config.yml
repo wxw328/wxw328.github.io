@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xiangwei Wang"
   avatar           : "images/profile.jpg" 
-  bio              : "Ph.D. Candidate in Computer Science at North Carolina State University"
-  location         : "Raleigh, North Carolina, USA"
-  employer         : "North Carolina State University"
+  bio              : "Ph.D. Candidate in Computer Science at Purdue University"
+  location         : "West Lafayette, Indiana, USA"
+  employer         : "Purdue University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=ze7DNGoAAAAJ"
   email            : "xwang258@ncsu.edu"
